@@ -146,9 +146,9 @@ version = "1.9.2"
 
 [[deps.PkgTemplates]]
 deps = ["Dates", "InteractiveUtils", "LibGit2", "Mocking", "Mustache", "Parameters", "Pkg", "REPL", "UUIDs"]
-git-tree-sha1 = "52aa978f90f67ec52326ecbf3155f6fc6035b4e5"
+git-tree-sha1 = "6c2c9825f633827ef5c76c077f3c399138ed5079"
 uuid = "14b8a8f1-9102-5b29-a752-f990bacb7fe1"
-version = "0.7.46"
+version = "0.7.47"
 
 [[deps.Printf]]
 deps = ["Unicode"]
