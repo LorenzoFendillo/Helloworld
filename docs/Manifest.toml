@@ -2,7 +2,7 @@
 
 julia_version = "1.9.4"
 manifest_format = "2.0"
-project_hash = "bd8587e36fe3739a5b94a3377a930cd39c2b274d"
+project_hash = "dda102db305ac4f5ef662e66cae3388a8f7ce757"
 
 [[deps.ANSIColoredPrinters]]
 git-tree-sha1 = "574baf8110975760d391c710b6341da1afa48d8c"
@@ -98,9 +98,7 @@ version = "2.42.0+0"
 
 [[deps.Helloworld]]
 deps = ["PkgTemplates"]
-git-tree-sha1 = "d1d4879a775c6b38572f20b0ed10646070593ea9"
-repo-rev = "master"
-repo-url = ".."
+path = ".."
 uuid = "a999fb30-5058-48e6-97a7-0b4ef8ea6d34"
 version = "0.1.0"
 
