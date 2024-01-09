@@ -1,2 +1,9 @@
+name = "Helloworld"
+uuid = "a999fb30-5058-48e6-97a7-0b4ef8ea6d34" 
+authors = ["LorenzoFendilllo"]
+version = "0.1.0"
+
+
+
 [deps]
 PkgTemplates = "14b8a8f1-9102-5b29-a752-f990bacb7fe1"
