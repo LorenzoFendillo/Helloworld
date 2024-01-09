@@ -1,3 +1,5 @@
+push!(LOAD_PATH,"../src/")
+
 using Documenter
 using Helloworld
 
@@ -13,5 +15,7 @@ makedocs(
 )
 
 deploydocs(
-    repo = "https://github.com/LorenzoFendillo/Helloworld",
+    repo = "github.com/LorenzoFendillo/Helloworld",
 )
+
+
