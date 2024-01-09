@@ -1,7 +1,7 @@
 using Documenter
 using Helloworld
 
-Documenter.makedocs(
+makedocs(
     sitename = "Helloworld Documentation",
     modules = [Helloworld],
     format = Documenter.HTML(),
