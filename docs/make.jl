@@ -13,5 +13,5 @@ makedocs(
 )
 
 deploydocs(
-    repo = "https://github.com/LorenzoFendillo/Helloworld.git",
+    repo = "https://github.com/LorenzoFendillo/Helloworld",
 )
