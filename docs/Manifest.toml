@@ -98,7 +98,7 @@ version = "2.42.0+0"
 
 [[deps.Helloworld]]
 deps = ["PkgTemplates"]
-git-tree-sha1 = "f5244ed7c74163115138b58bd4f7cb58beeeb783"
+git-tree-sha1 = "d1d4879a775c6b38572f20b0ed10646070593ea9"
 repo-rev = "master"
 repo-url = ".."
 uuid = "a999fb30-5058-48e6-97a7-0b4ef8ea6d34"
