@@ -14,7 +14,7 @@ makedocs(
         "Page 2" => "page2.md",
         "Page 3" => "page3.md",
     ],
-)
+    )
 
 deploydocs(
     repo = "github.com/LorenzoFendillo/Helloworld",
