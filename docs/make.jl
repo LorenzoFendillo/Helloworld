@@ -2,13 +2,12 @@ push!(LOAD_PATH,"../src/")
 
 
 using Documenter
-using Helloworld 
-using Funzione
+using Helloworld
 
 
 makedocs(
     sitename = "Test Documentation",
-    modules = [Helloworld, Funzione],
+    modules = [Hello, Funzione],
     format = Documenter.HTML(),
     pages = [
         "Home" => "index.md",

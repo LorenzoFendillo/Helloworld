@@ -1,4 +1,4 @@
-module Helloworld
+module Hello
 
 println("Hello World!")
 
