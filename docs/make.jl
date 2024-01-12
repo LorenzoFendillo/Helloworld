@@ -7,7 +7,7 @@ using Helloworld
 
 makedocs(
     sitename = "Test Documentation",
-    modules = [Helloworld, Funzione],
+    modules = [Helloworld],
     format = Documenter.HTML(),
     pages = [
         "Home" => "index.md",
