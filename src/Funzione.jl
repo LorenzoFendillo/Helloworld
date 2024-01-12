@@ -3,10 +3,12 @@ module Funzione
 export func
 
 """
-    func(x)
+    
+func(x)
 
 Return double the number `x` plus `1`.
 """
+x = 1
 func(x) = 2x + 1
 
 end
