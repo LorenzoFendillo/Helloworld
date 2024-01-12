@@ -8,7 +8,7 @@ using Funzione
 
 makedocs(
     sitename = "Test Documentation",
-    modules = [Helloworld],[Funzione],
+    modules = [Helloworld, Funzione],
     format = Documenter.HTML(),
     pages = [
         "Home" => "index.md",
