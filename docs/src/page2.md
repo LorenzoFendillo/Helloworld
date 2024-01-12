@@ -1,4 +1,4 @@
-# Funzione.jl Documentation
+# Funzione Documentation
 
 ```@docs
 func(x)
