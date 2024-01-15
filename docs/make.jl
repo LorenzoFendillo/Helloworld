@@ -6,13 +6,11 @@ using Helloworld
 
 
 makedocs(
-    sitename = "Test Documentation",
-    modules = [Funzione],
+    sitename = "My Documentation",
+    modules = [Helloworld],
     format = Documenter.HTML(),
     pages = [
         "Home" => "index.md",
-        "Page 2" => "page2.md",
-        "Page 3" => "page3.md",
     ],
     )
 

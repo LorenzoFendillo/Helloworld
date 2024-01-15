@@ -1,3 +1,5 @@
-# Helloworld Documentation
+# Helloworld.jl Documentation
 
-Welcome to the Helloworld documentation!
+```@docs
+func(x)
+```
