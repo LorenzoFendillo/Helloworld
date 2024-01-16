@@ -1,3 +1,8 @@
-# Helloworld Documentation
+# Esempio.jl Documentation
 
-Welcome to the Helloworld documentation!
+```@docs
+func(x)
+```
+
+- link to [Esempio.jl Documentation](@ref)
+- link to [`func(x)`](@ref)
