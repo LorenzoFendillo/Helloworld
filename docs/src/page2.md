@@ -1,1 +1,5 @@
-non lo so era per provare
+## Esempio.jl
+
+```@docs
+func(x)
+```

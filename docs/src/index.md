@@ -1,15 +1,6 @@
-# Example.jl Documentation
-
-```@contents
+```@meta
+EditURL = "https://github.com/LorenzoFendillo/Helloworld.jl/README.md"
 ```
 
-## Functions
+# Helloworld
 
-```@docs
-func(x)
-```
-
-## Index
-
-```@index
-```
