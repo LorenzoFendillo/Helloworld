@@ -1,5 +1,4 @@
-## Helloworld.jl
+## Helloworld.jl Documentation
 
-```@docs
-hello()
-```
+```@autodocs
+Modules = [Helloworld]

@@ -1,14 +1,14 @@
+"""
+# Helloworld Module
+
+This is the Helloworld module. It prints "Hello, World!" to the standard output when loaded.
+
+## Another section
+
+More detailed information or comments about the module can go here.
+"""
 module Helloworld
 
-export hello
-
-"""
-    hello()
-
-Print "Hello, World!" to the standard output.
-"""
-function hello()
-    println("Hello, World!")
-end
+println("Hello, World!")
 
 end
