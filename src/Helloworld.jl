@@ -1,14 +1,25 @@
+# Helloworld.jl
+
 module Helloworld
 
-println("Hello World!")
-export func
+export hello
 
 """
-    func(x)
+# Helloworld Module
 
-Return double the number `x` plus `1`.
+The `Helloworld` module demonstrates a simple Julia program that prints 'Hello, World!'.
+
+## Module Functions
+
+- `hello()`: Prints 'Hello, World!' to the standard output.
+
+
+        hello()
+
+Print 'Hello, World!' to the standard output.
 """
-func(x) = 2x + 1
-
+function hello()
+    println("Hello, World!")
+end
 
 end
