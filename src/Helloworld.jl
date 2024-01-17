@@ -1,12 +1,12 @@
 """
-# Helloworld Module
+# Helloworld.jl
 
-This is the Helloworld module. It prints "Hello, World!" to the standard output when loaded.
+This is the Helloworld.jl It prints "Hello, World!" to the standard output when loaded.
 
-## Another section
 
 More detailed information or comments about the module can go here.
 """
+
 module Helloworld
 
 println("Hello, World!")
