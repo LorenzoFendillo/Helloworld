@@ -5,4 +5,6 @@ hello
 ```
 ---
 
-See the [Link section](@ref link-to-prova) for more details.
+prova per il link [link-to-prova](@ref)
+
+---
