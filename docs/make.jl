@@ -2,7 +2,7 @@ push!(LOAD_PATH,"src/")
 
 using Documenter
 using Helloworld
-using Esempio
+using Esempio1
 
 
 generated_path = joinpath(@__DIR__, "src")
@@ -26,15 +26,15 @@ end
 
 
 makedocs(
-    sitename = "Helloworld Documentation",
-    modules = [Helloworld, Esempio],
+    sitename = "Esempi Documentation",
+    modules = [Helloworld, Esempio1],
     format = Documenter.HTML(;
     prettyurls=get(ENV,"CI", "false") == "true"
     ),
     pages = [
         "Home" => "index.md",
-        "Page 2" => "page2.md",
-        "Page 3" => "page3.md",   
+        "Esempio1" => "page2.md",
+        "Helloworld" => "page3.md",   
     ],
 )
 
