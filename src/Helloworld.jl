@@ -1,4 +1,9 @@
 # Helloworld.jl
+
+module Helloworld
+
+export hello
+
 """
 # Helloworld Module
 
@@ -8,13 +13,8 @@ The `Helloworld` module demonstrates a simple Julia program that prints 'Hello, 
 
 - `hello()`: Prints 'Hello, World!' to the standard output.
 
-"""
-module Helloworld
 
-export hello
-
-"""
-    hello()
+        hello()
 
 Print 'Hello, World!' to the standard output.
 """

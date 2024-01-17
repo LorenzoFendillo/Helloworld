@@ -1,4 +1,5 @@
 ## Helloworld.jl Documentation
 
-```@autodocs
-Modules = [Helloworld]
+```@docs
+hello
+```
