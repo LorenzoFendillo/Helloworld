@@ -1,4 +1,4 @@
 using Helloworld
 using Test
 
-@test greet() === nothing
+@test hello() === nothing
