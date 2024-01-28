@@ -1,3 +1,13 @@
-# Helloworld
+# Esempi Documentation
 
-[![Build Status](https://github.com/LorenzoFendillo/Helloworld.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/LorenzoFendillo/Helloworld.jl/actions/workflows/CI.yml?query=branch%3Amaster)
+| **Documentation** |
+|:------------ |
+| [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://lorenzofendillo.github.io/Helloworld/stable/)
+
+```@contents
+```
+
+## Index
+
+```@index
+```
