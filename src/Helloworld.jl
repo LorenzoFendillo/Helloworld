@@ -1,25 +1,8 @@
-# Helloworld.jl
-
 module Helloworld
 
-export hello
-
-"""
-# Helloworld Module
-
-The `Helloworld` module demonstrates a simple Julia program that prints 'Hello, World!'.
-
-## Module Functions
-
-- `hello()`: Prints 'Hello, World!' to the standard output.
-
-
-        hello()
-
-Print 'Hello, World!' to the standard output.
-"""
-function hello()
-    println("Hello, World!")
-end
+include("Esempio1.jl")
+include("HelloworldFile.jl")
 
 end
+
+
