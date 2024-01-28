@@ -3,6 +3,12 @@ uuid = "a999fb30-5058-48e6-97a7-0b4ef8ea6d34"
 authors = ["LorenzoFendilllo"]
 version = "0.1.0"
 
+name = "Esempio1"
+uuid = "2ca851d3-c4a3-4146-af40-2a1a42b1ba22"
+authors = ["LorenzoFendilllo"]
+version = "0.1.0"
+
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 PkgTemplates = "14b8a8f1-9102-5b29-a752-f990bacb7fe1"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
