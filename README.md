@@ -1,8 +1,5 @@
 # Esempi Documentation
 
-# <img src="https://github.com/gridap/Gridap.jl/blob/master/images/color-text-sticker.png" width="250" title="Gridap logo">
-
-
 | **Documentation** |
 |:------------ |
 | [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://gridap.github.io/Gridap.jl/stable) [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://gridap.github.io/Gridap.jl/dev) |
