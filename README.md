@@ -2,7 +2,7 @@
 
 | **Documentation** |
 |:------------ |
-| [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://lorenzofendillo.github.io/Helloworld/stable/)
+| [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://lorenzofendillo.github.io/Helloworld/docs/src/index.md)
 
 ```@contents
 ```
