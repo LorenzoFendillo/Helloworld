@@ -2,6 +2,7 @@ push!(LOAD_PATH,"src/")
 
 using Documenter
 using Helloworld
+using Esempio1
 
 
 generated_path = joinpath(@__DIR__, "src")
@@ -26,7 +27,7 @@ end
 
 makedocs(
     sitename = "Esempi Documentation",
-    modules = [HelloworldFile, Esempio1],
+    modules = [Helloworld, Esempio1],
     format = Documenter.HTML(;
     prettyurls=get(ENV,"CI", "false") == "true"
     ),
