@@ -1,13 +1,13 @@
 module Esempio1
 
-export func(x)
+export func
 
 """
     func(x)
 
 Return double the number `x` plus `1`.
 
-e prova latec
+e prova latek
 
 The Schrödinger equation in a docstring:
 
