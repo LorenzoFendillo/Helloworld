@@ -7,7 +7,7 @@ export func
 
 Return double the number `x` plus `1`.
 
-e prova latec
+e prova latek
 
 The Schrödinger equation in a docstring:
 
