@@ -1,6 +1,6 @@
 ## HelloworldFile.jl Documentation
 
-```@docs
+```#@docs
 hello
 ```
 ---
