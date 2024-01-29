@@ -1,11 +1,11 @@
 push!(LOAD_PATH,"src/")
 
 using Documenter
-using Helloworld
+using HelloworldJulia
 
 
 generated_path = joinpath(@__DIR__, "src")
-base_url = "https://github.com/LorenzoFendillo/Helloworld.jl/"
+base_url = "https://github.com/Umbertoneviani/HelloworldJulia"
 isdir(generated_path) || mkdir(generated_path)
 open(joinpath(generated_path, "index.md"), "w") do io
     # Point to source license file
@@ -26,7 +26,7 @@ end
 
 makedocs(
     sitename = "Esempi Documentation",
-    modules = [Helloworld],
+    modules = [HelloworldJulia],
     format = Documenter.HTML(;
     prettyurls=get(ENV,"CI", "false") == "true"
     ),
@@ -38,7 +38,7 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/LorenzoFendillo/Helloworld.git",
+    repo = "github.com/Umbertoneviani/HelloworldJulia.git",
 )
 
 

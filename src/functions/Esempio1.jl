@@ -1,6 +1,6 @@
 module Esempio1
 
-export func(x)
+export func
 
 """
     func(x)

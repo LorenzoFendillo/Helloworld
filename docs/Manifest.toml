@@ -2,7 +2,7 @@
 
 julia_version = "1.10.0"
 manifest_format = "2.0"
-project_hash = "48b9051c6ca664c8b178dd4d85fae1c35e0958d1"
+project_hash = "5bf1b13c2751c4c871c538a9a266989f1c36c4ee"
 
 [[deps.ANSIColoredPrinters]]
 git-tree-sha1 = "574baf8110975760d391c710b6341da1afa48d8c"
@@ -95,6 +95,12 @@ deps = ["Artifacts", "Expat_jll", "JLLWrappers", "LibCURL_jll", "Libdl", "Libico
 git-tree-sha1 = "b30c473c97fcc1e1e44fab8f3e88fd1b89c9e9d1"
 uuid = "f8c6e375-362e-5223-8a59-34ff63f689eb"
 version = "2.43.0+0"
+
+[[deps.HelloworldJulia]]
+deps = ["Documenter", "PkgTemplates", "Test"]
+path = ".."
+uuid = "c7e1bd25-b53e-4944-9b3a-2adf817a4483"
+version = "0.1.0"
 
 [[deps.IOCapture]]
 deps = ["Logging", "Random"]

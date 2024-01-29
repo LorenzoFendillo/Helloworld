@@ -1,8 +1,9 @@
 ## Esempio1.jl Documentation
 
 ```@docs
-func(x)
+HelloworldJulia.Esempio1.func(x)
 ```
+
 ---
 
 # link-to-prova
